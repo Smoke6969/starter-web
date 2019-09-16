@@ -4,6 +4,8 @@ Simple project for learning GIT
 
 ## Introduction
 
+Welcome guys
+
 ## Purpose
 
 ## Deployment
