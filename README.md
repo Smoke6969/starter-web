@@ -8,6 +8,10 @@ Welcome guys
 
 ## Purpose
 
+This is purpose
+
 ## Deployment
+
+Deployment stuff
 
 ## How to contribute
