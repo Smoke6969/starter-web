@@ -16,7 +16,7 @@ Deployment stuff
 
 ## How to contribute
 
-Contribution shit
+Contribution shit. Updated
 
 ##Huyample
 
