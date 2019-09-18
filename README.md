@@ -1,7 +1,23 @@
-# Starter Web Repo
+# Starter Web Project
 
-This repository is for showing how Git and GitHub work
+Simple project for learning GIT
+
+## Introduction
+
+Welcome guys
 
 ## Purpose
 
-Sample website with plenty of files for demos
+This is purpose
+
+## Deployment
+
+Deployment stuff
+
+## How to contribute
+
+Contribution shit. Updated
+
+##Huyample
+
+Added some huification
