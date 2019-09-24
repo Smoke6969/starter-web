@@ -1,6 +1,6 @@
 # Starter Web Project
 
-Simple project for learning GIT Stash qwertty
+Simple project for learning GIT Stash qwertty1
 
 ## Introduction
 
